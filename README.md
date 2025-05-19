@@ -1,6 +1,5 @@
 # AUTO DAILY SWAP 0G GALILEO
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+SKALAKASMA)](https://git.io/typing-svg)
 ![image](https://github.com/user-attachments/assets/b3444579-7813-4f1b-8d56-dcbe19d4167d)
 
 # Feature bot
